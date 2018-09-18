@@ -1,0 +1,13 @@
+{
+  "name": "appgyver",
+  "homepage": "https://github.com/josefromtampa/appgyver",
+  "_release": "ba70937b80",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4144af7fa861ec525440c125dedb729ba51e5851"
+  },
+  "_source": "https://github.com/josefromtampa/appgyver.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/josefromtampa/appgyver.git"
+}

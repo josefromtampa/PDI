@@ -1,0 +1,19 @@
+{
+  "name": "laicos-datacollector",
+  "main": "laicos-datacollector-forms.js",
+  "ignore": [],
+  "dependencies": {
+    "mui": "~0.1.18",
+    "ionic": "~1.0.1"
+  },
+  "homepage": "https://github.com/josefromtampa/laicos-datacollector",
+  "_release": "e476f6a70a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e476f6a70a47bbd74d8b607bdb118d11eb7946e1"
+  },
+  "_source": "https://github.com/josefromtampa/laicos-datacollector.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/josefromtampa/laicos-datacollector.git"
+}
